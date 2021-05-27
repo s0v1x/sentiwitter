@@ -7,7 +7,7 @@ This application can tell you the sentiments of people regarding to any events h
 
 ## Getting Started
  
-goto [the app](https://apps.twitter.com/). 
+goto [the app](https://sentiwitter.herokuapp.com/). 
 
 ### Installation
 
