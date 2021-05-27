@@ -35,6 +35,7 @@ smart-open = "==5.1.0"
 textsearch = "==0.0.21"
 xgboost = "==0.90"
 python-Levenshtein = "==0.12.2"
+pycocotools = "*"
 
 [dev-packages]
 
